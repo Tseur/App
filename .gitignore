@@ -1,5 +1,5 @@
-# Compiled class files
-bin/*.class
+# Build output
+bin/
 
 # macOS
 .DS_Store
@@ -8,11 +8,7 @@ bin/*.class
 .vscode/
 
 # Javadoc generated files
-bin/*.html
-bin/*.js
-bin/element-list
 src/*.html
 src/*.js
 src/element-list
 src/script-files/
-src/*.html
