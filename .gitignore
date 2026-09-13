@@ -1,0 +1,18 @@
+# Compiled class files
+bin/*.class
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Javadoc generated files
+bin/*.html
+bin/*.js
+bin/element-list
+src/*.html
+src/*.js
+src/element-list
+src/script-files/
+src/*.html
